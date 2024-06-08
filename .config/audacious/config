@@ -2,14 +2,13 @@
 [audacious]
 advance_on_delete=TRUE
 generic_title_format=${title}
-show_interface=FALSE
 
 [audgui]
-filesel_path=/home/realist/Music/Within Temptation - Bleed Out (Deluxe Edition) 2023
+filesel_path=/home/realist/Music/Alexandra Ilieva - Saxophone Covers
 
 [pipewire]
-volume_left=45
-volume_right=45
+volume_left=65
+volume_right=65
 
 [qtui]
 player_height=591
@@ -18,11 +17,11 @@ player_width=1069
 [skins]
 equalizer_x=1920
 equalizer_y=0
-mainwin_font=JetBrainsMono NF 7
+mainwin_font=JetBrainsMono Nerd Font Mono 7
 mainwin_use_bitmapfont=FALSE
 player_x=0
 player_y=0
-playlist_font=JetBrainsMono NF 7
+playlist_font=JetBrainsMono Nerd Font Mono 7
 playlist_height=899
 playlist_x=1920
 playlist_y=0

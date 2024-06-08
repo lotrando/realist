@@ -73,7 +73,7 @@
         "tooltip": true
     },
     "memory": {
-        "format": "󰘚 RAM:{}%",
+        "format": "󰍛 RAM:{}%",
         "tooltip": true
     },
     "network": {
