@@ -1,4 +1,7 @@
-# Realist's .zshrc file
+# RHMD
+# Realist Hyperland Minimal Desktop LTO & GPO version
+# .zshrc file -> ~/.zshrc
+# (c) 2024
 
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
@@ -78,3 +81,6 @@ alias premove="sudo emerge -av --unmerge"
 alias update="sudo emerge -uDU @world"
 alias clean="sudo emerge --depclean"
 alias sync="sudo emerge --sync"
+
+alias art="php artisan"
+alias server="php artisan serve"

@@ -2,6 +2,7 @@
 [audacious]
 advance_on_delete=TRUE
 generic_title_format=${title}
+show_interface=FALSE
 
 [audgui]
 filesel_path=/home/realist/Music/Alexandra Ilieva - Saxophone Covers

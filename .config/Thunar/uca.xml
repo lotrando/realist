@@ -6,7 +6,7 @@
 	<submenu></submenu>
 	<unique-id>1717808434334121-1</unique-id>
 	<command>kitty %f</command>
-	<description>Příklad vlastní akce</description>
+	<description>Otevřít terminál kitty zde</description>
 	<range></range>
 	<patterns>*</patterns>
 	<startup-notify/>
