@@ -1,0 +1,30 @@
+
+[audacious]
+advance_on_delete=TRUE
+generic_title_format=${title}
+show_interface=FALSE
+
+[audgui]
+filesel_path=/home/realist/Music/Within Temptation - Bleed Out (Deluxe Edition) 2023
+
+[pipewire]
+volume_left=45
+volume_right=45
+
+[qtui]
+player_height=1034
+player_width=950
+
+[skins]
+equalizer_x=1920
+equalizer_y=0
+mainwin_font=JetBrainsMono NF 7
+mainwin_use_bitmapfont=FALSE
+player_x=1920
+player_y=0
+playlist_font=JetBrainsMono NF 7
+playlist_height=899
+playlist_x=1920
+playlist_y=0
+skin=/home/realist/.local/share/audacious/Skins/Nucleo.wsz
+twoway_scroll=TRUE
