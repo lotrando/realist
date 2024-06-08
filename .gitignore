@@ -1,4 +1,5 @@
 
+
 .cache
 .config/Code
 .config/audacious/playlist-state
@@ -12,7 +13,9 @@
 .local/share/composer
 .local/share/flatpak
 .local/share/gvfs-metadata
+.local/share/mc/filepos
 .local/share/mc/history
+.local/share/recently-used.xbel
 .local/state
 .mozilla
 .npm
@@ -21,8 +24,7 @@
 .sync_settings
 .vscode
 .w3m
+.zsh_history
 /Downloads
 /Music
 /Torrents
-.local/share/mc/filepos
-.local/share/recently-used.xbel
