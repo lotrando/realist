@@ -64,7 +64,7 @@ window>box {
 }
 
 tooltip {
-  background: rgb(48, 45, 65);
+  background: rgba(48, 45, 65, 0.7);
 }
 
 tooltip label {

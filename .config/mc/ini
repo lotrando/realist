@@ -88,7 +88,7 @@ filepos_max_saved_entries=1024
 
 [Layout]
 output_lines=0
-left_panel_size=94
+left_panel_size=46
 top_panel_size=22
 message_visible=false
 keybar_visible=false
@@ -140,5 +140,5 @@ select_flags=6
 [Panelize]
 Po začlenění najít odmítnuté části změn (*.rej)=find . -name \\*.rej -print
 Najít programy s nastaveným SUID a SGID=find . \\( \\( -perm -04000 -a -perm /011 \\) -o \\( -perm -02000 -a -perm /01 \\) \\) -print
-Po začlenění najít *.orig soubory=find . -name \\*.orig -print
 Změněné git soubory=git ls-files --modified
+Po začlenění najít *.orig soubory=find . -name \\*.orig -print

@@ -5,7 +5,7 @@
 	<name>Otevřít terminál zde</name>
 	<submenu></submenu>
 	<unique-id>1717808434334121-1</unique-id>
-	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<command>kitty %f</command>
 	<description>Příklad vlastní akce</description>
 	<range></range>
 	<patterns>*</patterns>

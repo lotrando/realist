@@ -7,7 +7,11 @@
 .config/audacious/playlists/order
 .config/composer
 .config/dconf
+.config/pulse
 .config/sublime-text
+.config/tox
+.config/youtube-viewer
+.config/transmission
 .dotnet
 .local/share/Trash
 .local/share/composer
@@ -25,6 +29,12 @@
 .vscode
 .w3m
 .zsh_history
+/Desktop
+/Documents
 /Downloads
 /Music
+/Pictures
+/Public
+/Templates
 /Torrents
+/Videos
