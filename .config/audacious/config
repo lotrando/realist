@@ -2,14 +2,13 @@
 [audacious]
 advance_on_delete=TRUE
 generic_title_format=${title}
-show_interface=FALSE
 
 [audgui]
-filesel_path=/home/realist/Music/Alexandra Ilieva - Saxophone Covers
+filesel_path=/home/realist/Music/Sia - Reasonable Woman (2024)
 
 [pipewire]
-volume_left=65
-volume_right=65
+volume_left=85
+volume_right=85
 
 [qtui]
 player_height=591

@@ -7,6 +7,7 @@
     </property>
     <property name="thumbnails" type="empty">
       <property name="size" type="uint" value="4"/>
+      <property name="show" type="bool" value="false"/>
     </property>
     <property name="bgcolor-override" type="bool" value="true"/>
   </property>
