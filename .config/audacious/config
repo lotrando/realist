@@ -7,12 +7,14 @@ generic_title_format=${title}
 filesel_path=/home/realist
 
 [pipewire]
-volume_left=45
-volume_right=45
+volume_left=47
+volume_right=47
 
 [qtui]
-player_height=591
-player_width=1069
+column_widths=25,25,275,213,50,110,175,25,100,59,75,275,275,275,75,275,175
+player_height=817
+player_width=948
+playlist_columns=playing track artist album title length
 
 [skins]
 equalizer_x=1920
