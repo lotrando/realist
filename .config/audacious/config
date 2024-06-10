@@ -4,11 +4,11 @@ advance_on_delete=TRUE
 generic_title_format=${title}
 
 [audgui]
-filesel_path=/home/realist/Music/Sia - Reasonable Woman (2024)
+filesel_path=/home/realist
 
 [pipewire]
-volume_left=85
-volume_right=85
+volume_left=35
+volume_right=35
 
 [qtui]
 player_height=591

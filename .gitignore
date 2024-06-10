@@ -1,17 +1,22 @@
 
 
+
+.VirtualBox
 .cache
 .config/Code
+.config/QtProject.conf
+.config/audacious/config
 .config/audacious/playlist-state
 .config/audacious/playlists/1000.audpl
+.config/audacious/playlists/1002.audpl
 .config/audacious/playlists/order
 .config/composer
 .config/dconf
 .config/pulse
 .config/sublime-text
 .config/tox
-.config/youtube-viewer
 .config/transmission
+.config/youtube-viewer
 .dotnet
 .local/share/Trash
 .local/share/composer
@@ -28,9 +33,10 @@
 .sync_settings
 .vscode
 .w3m
-.zsh_history
 .zcompdump-hyprland-5.9
 .zcompdump-hyprland-5.9.zwc
+.zsh_history
+/.config/VirtualBox
 /Desktop
 /Documents
 /Downloads
@@ -40,6 +46,3 @@
 /Templates
 /Torrents
 /Videos
-.config/audacious/playlists/1002.audpl
-.config/audacious/config
-.config/QtProject.conf
