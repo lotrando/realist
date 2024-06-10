@@ -1,2 +1,5 @@
 [Default Applications]
 audio/x-mpegurl=audacious.desktop
+
+[Added Associations]
+application/pdf=org.xfce.ristretto.desktop;

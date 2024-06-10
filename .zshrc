@@ -18,6 +18,7 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$HOME/.config/rofi/scripts:$PATH
 export GTK_THEME=Adwaita-dark
 export XDG_RUNTIME_DIR=/run/user/$UID
+export QT_QPA_PLATFORM=wayland
 export EIX_LIMIT=0
 export MANPATH="/usr/local/man:$MANPATH"
 export LANG=cs_CZ.UTF-8
