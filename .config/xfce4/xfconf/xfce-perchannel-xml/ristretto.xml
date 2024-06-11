@@ -14,10 +14,13 @@
       <property name="show" type="bool" value="false"/>
     </property>
     <property name="toolbar" type="empty">
-      <property name="show" type="bool" value="false"/>
+      <property name="show" type="bool" value="true"/>
     </property>
-    <property name="show-clock" type="bool" value="true"/>
+    <property name="show-clock" type="bool" value="false"/>
     <property name="invert-zoom-direction" type="bool" value="true"/>
+    <property name="mouse-cursor" type="empty">
+      <property name="hide-fullscreen-timeout" type="uint" value="3"/>
+    </property>
   </property>
   <property name="desktop" type="empty">
     <property name="type" type="string" value="none"/>

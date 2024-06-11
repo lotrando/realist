@@ -3,7 +3,7 @@
 
 include "/home/realist/.gtkrc-2.0.mine"
 gtk-theme-name="Adwaita-dark"
-gtk-icon-theme-name="Faenza-Darkest"
+gtk-icon-theme-name="elementary-xfce-darker"
 gtk-font-name="Ubuntu 11"
 gtk-cursor-theme-name="DMZ-White"
 gtk-cursor-theme-size=24

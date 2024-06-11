@@ -1,5 +1,9 @@
 [Default Applications]
 audio/x-mpegurl=audacious.desktop
+application/octet-stream=userapp-subl-MZ9DP2.desktop
 
 [Added Associations]
 application/pdf=org.xfce.ristretto.desktop;
+application/octet-stream=userapp-subl-MZ9DP2.desktop;
+
+[Removed Associations]

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sublime Text
+Exec=/usr/bin/subl %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/octet-stream
+Terminal=false
