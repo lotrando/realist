@@ -7,8 +7,8 @@ generic_title_format=${title}
 filesel_path=/home/realist
 
 [pipewire]
-volume_left=47
-volume_right=47
+volume_left=42
+volume_right=42
 
 [qtui]
 column_widths=25,25,275,213,50,110,175,25,100,59,75,275,275,275,75,275,175
@@ -21,7 +21,7 @@ equalizer_x=1920
 equalizer_y=0
 mainwin_font=JetBrainsMono Nerd Font Mono 7
 mainwin_use_bitmapfont=FALSE
-player_x=1920
+player_x=0
 player_y=0
 playlist_font=JetBrainsMono Nerd Font Mono 7
 playlist_height=899
