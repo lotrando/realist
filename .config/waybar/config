@@ -14,8 +14,8 @@
         "cpu",
         "memory",
         "disk",
-        "pulseaudio",
         "clock",
+        "pulseaudio",
         "tray",
         "keyboard-state",
         "custom/powermenu"
@@ -33,7 +33,7 @@
     },
     "sway/mode": {},
     "tray": {
-        "icon-size": 16,
+        "icon-size": 20,
         "spacing": 5
     },
     "clock": {

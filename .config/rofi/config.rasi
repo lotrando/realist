@@ -1,21 +1,15 @@
-/**
- *
- * Author : Aditya Shakya (adi1090x)
- * Github : @adi1090x
- * 
- * Configuration For Rofi Version: 1.7.3
- **/
-
 configuration {
 	/*---------- General setting ----------*/
 	modi: "drun,filebrowser,ssh,window,run";
 	case-sensitive: false;
-	cycle: false;
+        lines:                       5;
+        cycle:                       true;
+        scrollbar:                   false;
 	filter: "";
 	scroll-method: 0;
 	normalize-match: true;
 	show-icons: true;
-	icon-theme: "Papirus";
+	icon-theme: "elementary";
 /*	cache-dir: ;*/
 	steal-focus: false;
 /*	dpi: -1;*/
@@ -174,3 +168,4 @@ configuration {
 	me-accept-custom: "Control+MouseDPrimary";
 */
 }
+@theme "/home/realist/.config/rofi/rofi.rasi"

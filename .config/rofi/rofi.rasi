@@ -1,0 +1,87 @@
+* {
+    font:   "JetBrainsMono Bold 12";
+    bg0:    #1e2127bb;
+    bg1:    #5c637055;
+    bg2:    #7dac5be6;
+    fg0:    #abb2bf;
+    fg1:    #FFFFFF;
+    fg2:    #DEDEDE80;
+    background-color:   transparent;
+    text-color:         @fg0;
+    margin:     0;
+    padding:    0;
+    spacing:    2;
+}
+
+window {
+    background-color:   @bg0;
+    border:         2px;
+    border-color:   @bg1;
+    location:       center;
+    width:          800;
+    border-radius:  0px;
+}
+
+inputbar {
+    font:       "Ubuntu 20";
+    padding:    5px;
+    spacing:    5px;
+    children:   [ icon-search, entry ];
+}
+
+icon-search {
+    expand:     false;
+    filename:   "search";
+    size: 0px;
+}
+
+icon-search, entry, element-icon, element-text {
+    vertical-align: 0.5;
+}
+
+entry {
+    font:   "JetBrainsMono Bold 20";
+    placeholder         : "";
+    placeholder-color   : @fg2;
+}
+
+message {
+    border:             2px 0 0;
+    border-color:       @bg1;
+    background-color:   @bg1;
+}
+
+textbox {
+    padding:    8px;
+}
+
+listview {
+    lines:      5;
+    columns:    1;
+    fixed-height:   false;
+    border:         2px 0 0;
+    border-color:   @bg1;
+}
+
+element {
+    padding:            8px 16px;
+    spacing:            16px;
+    background-color:   transparent;
+}
+
+element normal active {
+    text-color: @bg2;
+}
+
+element selected normal, element selected active {
+    background-color:   @bg2;
+    text-color:         @fg1;
+}
+
+element-icon {
+    size:   1.5em;
+}
+
+element-text {
+    text-color: inherit;
+}

@@ -27,5 +27,9 @@
   </property>
   <property name="image" type="empty">
     <property name="wrap" type="bool" value="true"/>
+    <property name="default-zoom" type="int" value="0"/>
+  </property>
+  <property name="file" type="empty">
+    <property name="current-uri" type="string" value="file:///home/realist/Pictures"/>
   </property>
 </channel>
