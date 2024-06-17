@@ -17,5 +17,6 @@ audio/flac=audacious.desktop;
 application/x-bittorrent=transmission-qt.desktop;
 video/mp4=userapp-mpv-BVTWO2.desktop;
 text/plain=sublime_text.desktop;
+application/vnd.microsoft.portable-executable=userapp-wine-5XFXO2.desktop;
 
 [Removed Associations]

@@ -70,7 +70,11 @@
     },
     "cpu": {
         "format": " CPU:{usage}%",
-        "tooltip": true
+        "tooltip": false,
+	"interval": 1,
+	"format-alt-click": "click",
+        "format-alt": " CPU:{icon0}{icon1}{icon2}{icon3}{icon4}{icon5} {usage}%",
+	"format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
     },
     "memory": {
         "format": "󰍛 RAM:{}%",
