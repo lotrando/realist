@@ -2,14 +2,13 @@
 [audacious]
 advance_on_delete=TRUE
 generic_title_format=${title}
-show_interface=FALSE
 
 [audgui]
 filesel_path=/home/realist/Music/Wohnout
 
 [pipewire]
-volume_left=27
-volume_right=27
+volume_left=62
+volume_right=62
 
 [qtui]
 column_widths=25,25,275,213,50,110,175,25,100,59,75,275,275,275,75,275,175
