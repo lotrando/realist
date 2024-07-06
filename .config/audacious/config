@@ -2,13 +2,14 @@
 [audacious]
 advance_on_delete=TRUE
 generic_title_format=${title}
+show_interface=FALSE
 
 [audgui]
-filesel_path=/home/realist/Music/Wohnout
+filesel_path=/home/realist/Music/Amorphis/Skyforger
 
 [pipewire]
-volume_left=62
-volume_right=62
+volume_left=45
+volume_right=45
 
 [qtui]
 column_widths=25,25,275,213,50,110,175,25,100,59,75,275,275,275,75,275,175
@@ -25,7 +26,6 @@ player_x=1920
 player_y=0
 playlist_font=JetBrainsMono Nerd Font Mono 7
 playlist_height=899
-playlist_visible=TRUE
 playlist_x=1920
 playlist_y=0
 skin=/home/realist/.local/share/audacious/Skins/Nucleo.wsz

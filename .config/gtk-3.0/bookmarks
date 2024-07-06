@@ -1,3 +1,4 @@
 file:///mnt/data Data
 file:///mnt/windows Windows
 sftp://realist@192.168.0.11/ Intel NUC
+sftp://realist@192.168.0.10/var/www/localhost/htdocs/fugis FUGIS
