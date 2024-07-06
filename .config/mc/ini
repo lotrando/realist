@@ -140,5 +140,5 @@ select_flags=6
 [Panelize]
 Najít programy s nastaveným SUID a SGID=find . \\( \\( -perm -04000 -a -perm /011 \\) -o \\( -perm -02000 -a -perm /01 \\) \\) -print
 Po začlenění najít odmítnuté části změn (*.rej)=find . -name \\*.rej -print
-Po začlenění najít *.orig soubory=find . -name \\*.orig -print
 Změněné git soubory=git ls-files --modified
+Po začlenění najít *.orig soubory=find . -name \\*.orig -print

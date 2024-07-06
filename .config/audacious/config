@@ -8,8 +8,8 @@ show_interface=FALSE
 filesel_path=/home/realist/Music/Amorphis/Skyforger
 
 [pipewire]
-volume_left=45
-volume_right=45
+volume_left=30
+volume_right=30
 
 [qtui]
 column_widths=25,25,275,213,50,110,175,25,100,59,75,275,275,275,75,275,175
