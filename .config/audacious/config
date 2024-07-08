@@ -5,7 +5,7 @@ generic_title_format=${title}
 show_interface=FALSE
 
 [audgui]
-filesel_path=/home/realist/Music/Amorphis/Skyforger
+filesel_path=/home/realist/Music/Amorphis/Tales from the Thousand Lakes  Black Winter Day
 
 [pipewire]
 volume_left=30
@@ -25,8 +25,8 @@ mainwin_use_bitmapfont=FALSE
 player_x=1920
 player_y=0
 playlist_font=JetBrainsMono Nerd Font Mono 7
-playlist_height=899
-playlist_x=1920
-playlist_y=0
+playlist_height=522
+playlist_x=2531
+playlist_y=-17
 skin=/home/realist/.local/share/audacious/Skins/Nucleo.wsz
 twoway_scroll=TRUE
